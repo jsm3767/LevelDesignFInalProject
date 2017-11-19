@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7650"
-	"mapversion" "26"
+	"mapversion" "27"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "26"
+	"mapversion" "27"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -12699,7 +12699,7 @@ world
 		side
 		{
 			"id" "2222"
-			"plane" "(-1216 -1504 160) (-1216 -1568 160) (-1280 -1568 160)"
+			"plane" "(-1216 -1568 176) (-1280 -1568 176) (-1280 -1504 176)"
 			"material" "CONCRETE/CONCRETEFLOOR015A_C17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -12710,7 +12710,7 @@ world
 		side
 		{
 			"id" "2221"
-			"plane" "(-1280 -1504 96) (-1280 -1568 96) (-1216 -1568 96)"
+			"plane" "(-1216 -1504 112) (-1280 -1504 112) (-1280 -1568 112)"
 			"material" "CONCRETE/CONCRETEFLOOR015A_C17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -12721,7 +12721,7 @@ world
 		side
 		{
 			"id" "2220"
-			"plane" "(-1216 -1504 160) (-1280 -1504 160) (-1280 -1504 96)"
+			"plane" "(-1280 -1504 112) (-1216 -1504 112) (-1216 -1504 176)"
 			"material" "CONCRETE/CONCRETEFLOOR015A_C17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -12732,7 +12732,7 @@ world
 		side
 		{
 			"id" "2219"
-			"plane" "(-1216 -1568 96) (-1280 -1568 96) (-1280 -1568 160)"
+			"plane" "(-1216 -1568 112) (-1280 -1568 112) (-1280 -1568 176)"
 			"material" "CONCRETE/CONCRETEFLOOR015A_C17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -12743,7 +12743,7 @@ world
 		side
 		{
 			"id" "2218"
-			"plane" "(-1216 -1568 160) (-1216 -1504 160) (-1216 -1504 96)"
+			"plane" "(-1216 -1504 112) (-1216 -1568 112) (-1216 -1568 176)"
 			"material" "CONCRETE/CONCRETEFLOOR015A_C17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -12754,7 +12754,7 @@ world
 		side
 		{
 			"id" "2217"
-			"plane" "(-1280 -1568 96) (-1280 -1504 96) (-1280 -1504 160)"
+			"plane" "(-1280 -1568 112) (-1280 -1504 112) (-1280 -1504 176)"
 			"material" "CONCRETE/CONCRETEFLOOR015A_C17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -12775,7 +12775,7 @@ world
 		side
 		{
 			"id" "2228"
-			"plane" "(-1280 -1568 160) (-1280 -1632 160) (-1344 -1632 160)"
+			"plane" "(-1280 -1632 176) (-1344 -1632 176) (-1344 -1568 176)"
 			"material" "CONCRETE/CONCRETEFLOOR015A_C17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -12786,7 +12786,7 @@ world
 		side
 		{
 			"id" "2227"
-			"plane" "(-1344 -1568 96) (-1344 -1632 96) (-1280 -1632 96)"
+			"plane" "(-1280 -1568 112) (-1344 -1568 112) (-1344 -1632 112)"
 			"material" "CONCRETE/CONCRETEFLOOR015A_C17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -12797,7 +12797,7 @@ world
 		side
 		{
 			"id" "2226"
-			"plane" "(-1280 -1568 160) (-1344 -1568 160) (-1344 -1568 96)"
+			"plane" "(-1344 -1568 112) (-1280 -1568 112) (-1280 -1568 176)"
 			"material" "CONCRETE/CONCRETEFLOOR015A_C17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -12808,7 +12808,7 @@ world
 		side
 		{
 			"id" "2225"
-			"plane" "(-1280 -1632 96) (-1344 -1632 96) (-1344 -1632 160)"
+			"plane" "(-1280 -1632 112) (-1344 -1632 112) (-1344 -1632 176)"
 			"material" "CONCRETE/CONCRETEFLOOR015A_C17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -12819,7 +12819,7 @@ world
 		side
 		{
 			"id" "2224"
-			"plane" "(-1280 -1632 160) (-1280 -1568 160) (-1280 -1568 96)"
+			"plane" "(-1280 -1568 112) (-1280 -1632 112) (-1280 -1632 176)"
 			"material" "CONCRETE/CONCRETEFLOOR015A_C17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -12830,7 +12830,7 @@ world
 		side
 		{
 			"id" "2223"
-			"plane" "(-1344 -1632 96) (-1344 -1568 96) (-1344 -1568 160)"
+			"plane" "(-1344 -1632 112) (-1344 -1568 112) (-1344 -1568 176)"
 			"material" "CONCRETE/CONCRETEFLOOR015A_C17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -12851,7 +12851,7 @@ world
 		side
 		{
 			"id" "2234"
-			"plane" "(-1280 -1504 224) (-1280 -1568 224) (-1344 -1568 224)"
+			"plane" "(-1280 -1568 240) (-1344 -1568 240) (-1344 -1504 240)"
 			"material" "CONCRETE/CONCRETEFLOOR015A_C17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -12862,7 +12862,7 @@ world
 		side
 		{
 			"id" "2233"
-			"plane" "(-1344 -1504 160) (-1344 -1568 160) (-1280 -1568 160)"
+			"plane" "(-1280 -1504 176) (-1344 -1504 176) (-1344 -1568 176)"
 			"material" "CONCRETE/CONCRETEFLOOR015A_C17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -12873,7 +12873,7 @@ world
 		side
 		{
 			"id" "2232"
-			"plane" "(-1280 -1504 224) (-1344 -1504 224) (-1344 -1504 160)"
+			"plane" "(-1344 -1504 176) (-1280 -1504 176) (-1280 -1504 240)"
 			"material" "CONCRETE/CONCRETEFLOOR015A_C17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -12884,7 +12884,7 @@ world
 		side
 		{
 			"id" "2231"
-			"plane" "(-1280 -1568 160) (-1344 -1568 160) (-1344 -1568 224)"
+			"plane" "(-1280 -1568 176) (-1344 -1568 176) (-1344 -1568 240)"
 			"material" "CONCRETE/CONCRETEFLOOR015A_C17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -12895,7 +12895,7 @@ world
 		side
 		{
 			"id" "2230"
-			"plane" "(-1280 -1568 224) (-1280 -1504 224) (-1280 -1504 160)"
+			"plane" "(-1280 -1504 176) (-1280 -1568 176) (-1280 -1568 240)"
 			"material" "CONCRETE/CONCRETEFLOOR015A_C17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -12906,7 +12906,7 @@ world
 		side
 		{
 			"id" "2229"
-			"plane" "(-1344 -1568 160) (-1344 -1504 160) (-1344 -1504 224)"
+			"plane" "(-1344 -1568 176) (-1344 -1504 176) (-1344 -1504 240)"
 			"material" "CONCRETE/CONCRETEFLOOR015A_C17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -16796,449 +16796,6 @@ world
 }
 entity
 {
-	"id" "1039"
-	"classname" "trigger_hurt"
-	"damage" "10000000000000000000"
-	"damagecap" "20"
-	"damagemodel" "0"
-	"damagetype" "0"
-	"nodmgforce" "0"
-	"origin" "1952 -2496 -1312"
-	"spawnflags" "1"
-	"StartDisabled" "0"
-	solid
-	{
-		"id" "1031"
-		side
-		{
-			"id" "809"
-			"plane" "(1440 -2304 -1120) (2464 -2304 -1120) (2464 -2688 -1120)"
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "808"
-			"plane" "(1440 -2688 -1504) (2464 -2688 -1504) (2464 -2304 -1504)"
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "807"
-			"plane" "(1440 -2304 -1120) (1440 -2688 -1120) (1440 -2688 -1504)"
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "806"
-			"plane" "(2464 -2304 -1504) (2464 -2688 -1504) (2464 -2688 -1120)"
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "805"
-			"plane" "(2464 -2304 -1120) (1440 -2304 -1120) (1440 -2304 -1504)"
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "804"
-			"plane" "(2464 -2688 -1504) (1440 -2688 -1504) (1440 -2688 -1120)"
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "220 30 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 6000]"
-	}
-}
-entity
-{
-	"id" "2114"
-	"classname" "prop_dynamic"
-	"angles" "0 0 0"
-	"DisableBoneFollowers" "0"
-	"disablereceiveshadows" "0"
-	"ExplodeDamage" "0"
-	"ExplodeRadius" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"MaxAnimTime" "10"
-	"MinAnimTime" "5"
-	"model" "models/props_mvm/mann_hatch.mdl"
-	"modelscale" "1.0"
-	"PerformanceMode" "0"
-	"pressuredelay" "0"
-	"RandomAnimation" "0"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"SetBodyGroup" "0"
-	"skin" "0"
-	"solid" "6"
-	"spawnflags" "0"
-	"StartDisabled" "0"
-	"origin" "2976 -5984 -448"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1000 -1268]"
-	}
-}
-entity
-{
-	"id" "2271"
-	"classname" "func_capturezone"
-	"capturepoint" "1"
-	"StartDisabled" "0"
-	"TeamNum" "3"
-	connections
-	{
-		"OnCapture" "gameRoundWin,RoundWin,,0,-1"
-	}
-	solid
-	{
-		"id" "2269"
-		side
-		{
-			"id" "2120"
-			"plane" "(2928 -5936 -368) (3024 -5936 -368) (3024 -6032 -368)"
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "2119"
-			"plane" "(2928 -6032 -432) (3024 -6032 -432) (3024 -5936 -432)"
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "2118"
-			"plane" "(2928 -5936 -368) (2928 -6032 -368) (2928 -6032 -432)"
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "2117"
-			"plane" "(3024 -5936 -432) (3024 -6032 -432) (3024 -6032 -368)"
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "2116"
-			"plane" "(3024 -5936 -368) (2928 -5936 -368) (2928 -5936 -432)"
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "2115"
-			"plane" "(3024 -6032 -432) (2928 -6032 -432) (2928 -6032 -368)"
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "220 30 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 500]"
-	}
-}
-entity
-{
-	"id" "2975"
-	"classname" "item_healthkit_medium"
-	"angles" "0 270 0"
-	"AutoMaterialize" "1"
-	"fademindist" "-1"
-	"StartDisabled" "0"
-	"TeamNum" "0"
-	"origin" "-1128 -2808 288"
-	editor
-	{
-		"color" "0 0 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2500 5500]"
-	}
-}
-entity
-{
-	"id" "2979"
-	"classname" "item_ammopack_medium"
-	"angles" "0 270 0"
-	"AutoMaterialize" "1"
-	"fademindist" "-1"
-	"StartDisabled" "0"
-	"TeamNum" "0"
-	"origin" "-1128 -2848 288"
-	editor
-	{
-		"color" "0 0 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2500 5500]"
-	}
-}
-entity
-{
-	"id" "3027"
-	"classname" "item_healthkit_medium"
-	"angles" "0 0 0"
-	"AutoMaterialize" "1"
-	"fademindist" "-1"
-	"StartDisabled" "0"
-	"TeamNum" "0"
-	"origin" "2120 -4400 352.256"
-	editor
-	{
-		"color" "0 0 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2500 5500]"
-	}
-}
-entity
-{
-	"id" "3031"
-	"classname" "item_ammopack_medium"
-	"angles" "0 0 0"
-	"AutoMaterialize" "1"
-	"fademindist" "-1"
-	"StartDisabled" "0"
-	"TeamNum" "0"
-	"origin" "2160 -4400 352.256"
-	editor
-	{
-		"color" "0 0 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2500 5500]"
-	}
-}
-entity
-{
-	"id" "3059"
-	"classname" "item_healthkit_medium"
-	"angles" "0 180 0"
-	"AutoMaterialize" "1"
-	"fademindist" "-1"
-	"StartDisabled" "0"
-	"TeamNum" "0"
-	"origin" "3008 -4784 -447.744"
-	editor
-	{
-		"color" "0 0 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2500 5500]"
-	}
-}
-entity
-{
-	"id" "3063"
-	"classname" "item_ammopack_medium"
-	"angles" "0 180 0"
-	"AutoMaterialize" "1"
-	"fademindist" "-1"
-	"StartDisabled" "0"
-	"TeamNum" "0"
-	"origin" "2968 -4784 -447.744"
-	editor
-	{
-		"color" "0 0 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2500 5500]"
-	}
-}
-entity
-{
-	"id" "3091"
-	"classname" "item_healthkit_small"
-	"angles" "0 180 0"
-	"AutoMaterialize" "1"
-	"fademindist" "-1"
-	"StartDisabled" "0"
-	"TeamNum" "0"
-	"origin" "3384 -3032 112.256"
-	editor
-	{
-		"color" "0 0 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2500 5500]"
-	}
-}
-entity
-{
-	"id" "3095"
-	"classname" "item_ammopack_small"
-	"angles" "0 180 0"
-	"AutoMaterialize" "1"
-	"fademindist" "-1"
-	"StartDisabled" "0"
-	"TeamNum" "0"
-	"origin" "3344 -3032 112.256"
-	editor
-	{
-		"color" "0 0 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2500 5500]"
-	}
-}
-entity
-{
-	"id" "3135"
-	"classname" "item_healthkit_small"
-	"angles" "0 225 0"
-	"AutoMaterialize" "1"
-	"fademindist" "-1"
-	"StartDisabled" "0"
-	"TeamNum" "0"
-	"origin" "-43.7157 -2059.72 112.256"
-	editor
-	{
-		"color" "0 0 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2500 5500]"
-	}
-}
-entity
-{
-	"id" "3139"
-	"classname" "item_ammopack_small"
-	"angles" "0 225 0"
-	"AutoMaterialize" "1"
-	"fademindist" "-1"
-	"StartDisabled" "0"
-	"TeamNum" "0"
-	"origin" "-72 -2088 112.256"
-	editor
-	{
-		"color" "0 0 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2500 5500]"
-	}
-}
-entity
-{
-	"id" "3187"
-	"classname" "item_healthkit_small"
-	"angles" "0 330 0"
-	"AutoMaterialize" "1"
-	"fademindist" "-1"
-	"StartDisabled" "0"
-	"TeamNum" "0"
-	"origin" "691.513 335.288 64.2562"
-	editor
-	{
-		"color" "0 0 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2500 5500]"
-	}
-}
-entity
-{
-	"id" "3191"
-	"classname" "item_ammopack_small"
-	"angles" "0 330 0"
-	"AutoMaterialize" "1"
-	"fademindist" "-1"
-	"StartDisabled" "0"
-	"TeamNum" "0"
-	"origin" "726.154 315.288 64.2562"
-	editor
-	{
-		"color" "0 0 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2500 5500]"
-	}
-}
-entity
-{
 	"id" "4338"
 	"classname" "info_player_teamspawn"
 	"angles" "0 270 0"
@@ -17811,6 +17368,1285 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3403"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "1000 1272 296"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3405"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "1000 1208 296"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3407"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "936 1176 296.005"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3409"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "936 1240 296"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3415"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "872 1208 296.005"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3417"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "872 1272 296.005"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3770"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "1000 1144 295.995"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3772"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "1000 1080 295.995"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3774"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "1000 1016 295.995"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3776"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "1000 952 295.995"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3778"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "936 920 296"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3780"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "936 984 295.995"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3782"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "936 1048 295.995"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3784"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "936 1112 295.995"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3786"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "872 952 296"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3788"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "872 1016 296"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3790"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "872 1080 296"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3792"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "872 1144 296"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3842"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "1000 888 295.995"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3864"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot"
+	"TeamNum" "3"
+	"origin" "872 888 296"
+	editor
+	{
+		"color" "135 108 0"
+		"groupid" "5446"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "5486"
+	"classname" "info_player_teamspawn"
+	"angles" "0 270 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_spy"
+	"TeamNum" "3"
+	"origin" "1616 -1144 296"
+	editor
+	{
+		"color" "157 214 0"
+		"groupid" "5640"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "5488"
+	"classname" "info_player_teamspawn"
+	"angles" "0 270 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_spy"
+	"TeamNum" "3"
+	"origin" "1680 -1144 296"
+	editor
+	{
+		"color" "157 214 0"
+		"groupid" "5640"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "5490"
+	"classname" "info_player_teamspawn"
+	"angles" "0 270 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_spy"
+	"TeamNum" "3"
+	"origin" "1712 -1208 296"
+	editor
+	{
+		"color" "157 214 0"
+		"groupid" "5640"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "5492"
+	"classname" "info_player_teamspawn"
+	"angles" "0 270 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_spy"
+	"TeamNum" "3"
+	"origin" "1648 -1208 296"
+	editor
+	{
+		"color" "157 214 0"
+		"groupid" "5640"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "5494"
+	"classname" "info_player_teamspawn"
+	"angles" "0 270 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_spy"
+	"TeamNum" "3"
+	"origin" "1680 -1272 296.005"
+	editor
+	{
+		"color" "157 214 0"
+		"groupid" "5640"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "5496"
+	"classname" "info_player_teamspawn"
+	"angles" "0 270 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_spy"
+	"TeamNum" "3"
+	"origin" "1616 -1272 296.005"
+	editor
+	{
+		"color" "157 214 0"
+		"groupid" "5640"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3399"
+	"classname" "info_player_teamspawn"
+	"angles" "0 270 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_spy"
+	"TeamNum" "3"
+	"origin" "1488 -1144 296"
+	editor
+	{
+		"color" "157 214 0"
+		"groupid" "5640"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3401"
+	"classname" "info_player_teamspawn"
+	"angles" "0 270 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_spy"
+	"TeamNum" "3"
+	"origin" "1552 -1144 296"
+	editor
+	{
+		"color" "157 214 0"
+		"groupid" "5640"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3411"
+	"classname" "info_player_teamspawn"
+	"angles" "0 270 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_spy"
+	"TeamNum" "3"
+	"origin" "1584 -1208 296"
+	editor
+	{
+		"color" "157 214 0"
+		"groupid" "5640"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3413"
+	"classname" "info_player_teamspawn"
+	"angles" "0 270 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_spy"
+	"TeamNum" "3"
+	"origin" "1520 -1208 296"
+	editor
+	{
+		"color" "157 214 0"
+		"groupid" "5640"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3419"
+	"classname" "info_player_teamspawn"
+	"angles" "0 270 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_spy"
+	"TeamNum" "3"
+	"origin" "1552 -1272 296.005"
+	editor
+	{
+		"color" "157 214 0"
+		"groupid" "5640"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3421"
+	"classname" "info_player_teamspawn"
+	"angles" "0 270 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_spy"
+	"TeamNum" "3"
+	"origin" "1488 -1272 296.005"
+	editor
+	{
+		"color" "157 214 0"
+		"groupid" "5640"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3844"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_sniper"
+	"TeamNum" "3"
+	"origin" "96 1792 295.995"
+	editor
+	{
+		"color" "147 176 0"
+		"groupid" "5997"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3846"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_sniper"
+	"TeamNum" "3"
+	"origin" "160 1792 295.995"
+	editor
+	{
+		"color" "147 176 0"
+		"groupid" "5997"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3854"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_sniper"
+	"TeamNum" "3"
+	"origin" "128 1728 295.995"
+	editor
+	{
+		"color" "147 176 0"
+		"groupid" "5997"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3856"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_sniper"
+	"TeamNum" "3"
+	"origin" "64 1728 295.995"
+	editor
+	{
+		"color" "147 176 0"
+		"groupid" "5997"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3860"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_sniper"
+	"TeamNum" "3"
+	"origin" "160 1664 296"
+	editor
+	{
+		"color" "147 176 0"
+		"groupid" "5997"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3862"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_sniper"
+	"TeamNum" "3"
+	"origin" "96 1664 296"
+	editor
+	{
+		"color" "147 176 0"
+		"groupid" "5997"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "5666"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_sniper"
+	"TeamNum" "3"
+	"origin" "-32 1792 295.995"
+	editor
+	{
+		"color" "147 176 0"
+		"groupid" "5997"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "5668"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_sniper"
+	"TeamNum" "3"
+	"origin" "32 1792 295.995"
+	editor
+	{
+		"color" "147 176 0"
+		"groupid" "5997"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "5670"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_sniper"
+	"TeamNum" "3"
+	"origin" "0 1728 295.995"
+	editor
+	{
+		"color" "147 176 0"
+		"groupid" "5997"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "5672"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_sniper"
+	"TeamNum" "3"
+	"origin" "-64 1728 295.995"
+	editor
+	{
+		"color" "147 176 0"
+		"groupid" "5997"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "5674"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_sniper"
+	"TeamNum" "3"
+	"origin" "32 1664 296"
+	editor
+	{
+		"color" "147 176 0"
+		"groupid" "5997"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "5676"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"SpawnMode" "0"
+	"StartDisabled" "0"
+	"targetname" "spawnbot_mission_sniper"
+	"TeamNum" "3"
+	"origin" "-32 1664 296"
+	editor
+	{
+		"color" "147 176 0"
+		"groupid" "5997"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "1039"
+	"classname" "trigger_hurt"
+	"damage" "10000000000000000000"
+	"damagecap" "20"
+	"damagemodel" "0"
+	"damagetype" "0"
+	"nodmgforce" "0"
+	"origin" "1952 -2496 -1312"
+	"spawnflags" "1"
+	"StartDisabled" "0"
+	solid
+	{
+		"id" "1031"
+		side
+		{
+			"id" "809"
+			"plane" "(1440 -2304 -1120) (2464 -2304 -1120) (2464 -2688 -1120)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "808"
+			"plane" "(1440 -2688 -1504) (2464 -2688 -1504) (2464 -2304 -1504)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "807"
+			"plane" "(1440 -2304 -1120) (1440 -2688 -1120) (1440 -2688 -1504)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "806"
+			"plane" "(2464 -2304 -1504) (2464 -2688 -1504) (2464 -2688 -1120)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "805"
+			"plane" "(2464 -2304 -1120) (1440 -2304 -1120) (1440 -2304 -1504)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "804"
+			"plane" "(2464 -2688 -1504) (1440 -2688 -1504) (1440 -2688 -1120)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 6000]"
+	}
+}
+entity
+{
+	"id" "2114"
+	"classname" "prop_dynamic"
+	"angles" "0 0 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_mvm/mann_hatch.mdl"
+	"modelscale" "1.0"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "6"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "2976 -5984 -448"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1000 -1268]"
+	}
+}
+entity
+{
+	"id" "2271"
+	"classname" "func_capturezone"
+	"capturepoint" "1"
+	"StartDisabled" "0"
+	"TeamNum" "3"
+	connections
+	{
+		"OnCapture" "gameRoundWin,RoundWin,,0,-1"
+	}
+	solid
+	{
+		"id" "2269"
+		side
+		{
+			"id" "2120"
+			"plane" "(2928 -5936 -368) (3024 -5936 -368) (3024 -6032 -368)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2119"
+			"plane" "(2928 -6032 -432) (3024 -6032 -432) (3024 -5936 -432)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2118"
+			"plane" "(2928 -5936 -368) (2928 -6032 -368) (2928 -6032 -432)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2117"
+			"plane" "(3024 -5936 -432) (3024 -6032 -432) (3024 -6032 -368)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2116"
+			"plane" "(3024 -5936 -368) (2928 -5936 -368) (2928 -5936 -432)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2115"
+			"plane" "(3024 -6032 -432) (2928 -6032 -432) (2928 -6032 -368)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1500 500]"
+	}
+}
+entity
+{
+	"id" "2975"
+	"classname" "item_healthkit_medium"
+	"angles" "0 270 0"
+	"AutoMaterialize" "1"
+	"fademindist" "-1"
+	"StartDisabled" "0"
+	"TeamNum" "0"
+	"origin" "-1128 -2808 288"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 5500]"
+	}
+}
+entity
+{
+	"id" "2979"
+	"classname" "item_ammopack_medium"
+	"angles" "0 270 0"
+	"AutoMaterialize" "1"
+	"fademindist" "-1"
+	"StartDisabled" "0"
+	"TeamNum" "0"
+	"origin" "-1128 -2848 288"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 5500]"
+	}
+}
+entity
+{
+	"id" "3027"
+	"classname" "item_healthkit_medium"
+	"angles" "0 0 0"
+	"AutoMaterialize" "1"
+	"fademindist" "-1"
+	"StartDisabled" "0"
+	"TeamNum" "0"
+	"origin" "2120 -4400 352.256"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 5500]"
+	}
+}
+entity
+{
+	"id" "3031"
+	"classname" "item_ammopack_medium"
+	"angles" "0 0 0"
+	"AutoMaterialize" "1"
+	"fademindist" "-1"
+	"StartDisabled" "0"
+	"TeamNum" "0"
+	"origin" "2160 -4400 352.256"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 5500]"
+	}
+}
+entity
+{
+	"id" "3059"
+	"classname" "item_healthkit_medium"
+	"angles" "0 180 0"
+	"AutoMaterialize" "1"
+	"fademindist" "-1"
+	"StartDisabled" "0"
+	"TeamNum" "0"
+	"origin" "3008 -4784 -447.744"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 5500]"
+	}
+}
+entity
+{
+	"id" "3063"
+	"classname" "item_ammopack_medium"
+	"angles" "0 180 0"
+	"AutoMaterialize" "1"
+	"fademindist" "-1"
+	"StartDisabled" "0"
+	"TeamNum" "0"
+	"origin" "2968 -4784 -447.744"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 5500]"
+	}
+}
+entity
+{
+	"id" "3091"
+	"classname" "item_healthkit_small"
+	"angles" "0 180 0"
+	"AutoMaterialize" "1"
+	"fademindist" "-1"
+	"StartDisabled" "0"
+	"TeamNum" "0"
+	"origin" "3384 -3032 112.256"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 5500]"
+	}
+}
+entity
+{
+	"id" "3095"
+	"classname" "item_ammopack_small"
+	"angles" "0 180 0"
+	"AutoMaterialize" "1"
+	"fademindist" "-1"
+	"StartDisabled" "0"
+	"TeamNum" "0"
+	"origin" "3344 -3032 112.256"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 5500]"
+	}
+}
+entity
+{
+	"id" "3135"
+	"classname" "item_healthkit_small"
+	"angles" "0 225 0"
+	"AutoMaterialize" "1"
+	"fademindist" "-1"
+	"StartDisabled" "0"
+	"TeamNum" "0"
+	"origin" "-43.7157 -2059.72 112.256"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 5500]"
+	}
+}
+entity
+{
+	"id" "3139"
+	"classname" "item_ammopack_small"
+	"angles" "0 225 0"
+	"AutoMaterialize" "1"
+	"fademindist" "-1"
+	"StartDisabled" "0"
+	"TeamNum" "0"
+	"origin" "-72 -2088 112.256"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 5500]"
+	}
+}
+entity
+{
+	"id" "3187"
+	"classname" "item_healthkit_small"
+	"angles" "0 330 0"
+	"AutoMaterialize" "1"
+	"fademindist" "-1"
+	"StartDisabled" "0"
+	"TeamNum" "0"
+	"origin" "691.513 335.288 64.2562"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 5500]"
+	}
+}
+entity
+{
+	"id" "3191"
+	"classname" "item_ammopack_small"
+	"angles" "0 330 0"
+	"AutoMaterialize" "1"
+	"fademindist" "-1"
+	"StartDisabled" "0"
+	"TeamNum" "0"
+	"origin" "726.154 315.288 64.2562"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 5500]"
 	}
 }
 entity
@@ -18696,614 +19532,6 @@ entity
 }
 entity
 {
-	"id" "3403"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "1000 1272 296"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3405"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "1000 1208 296"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3407"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "936 1176 296.005"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3409"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "936 1240 296"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3415"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "872 1208 296.005"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3417"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "872 1272 296.005"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3770"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "1000 1144 295.995"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3772"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "1000 1080 295.995"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3774"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "1000 1016 295.995"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3776"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "1000 952 295.995"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3778"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "936 920 296"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3780"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "936 984 295.995"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3782"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "936 1048 295.995"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3784"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "936 1112 295.995"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3786"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "872 952 296"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3788"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "872 1016 296"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3790"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "872 1080 296"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3792"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "872 1144 296"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3842"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "1000 888 295.995"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3864"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot"
-	"TeamNum" "3"
-	"origin" "872 888 296"
-	editor
-	{
-		"color" "135 108 0"
-		"groupid" "5446"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "5486"
-	"classname" "info_player_teamspawn"
-	"angles" "0 270 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_spy"
-	"TeamNum" "3"
-	"origin" "1616 -1144 296"
-	editor
-	{
-		"color" "157 214 0"
-		"groupid" "5640"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "5488"
-	"classname" "info_player_teamspawn"
-	"angles" "0 270 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_spy"
-	"TeamNum" "3"
-	"origin" "1680 -1144 296"
-	editor
-	{
-		"color" "157 214 0"
-		"groupid" "5640"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "5490"
-	"classname" "info_player_teamspawn"
-	"angles" "0 270 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_spy"
-	"TeamNum" "3"
-	"origin" "1712 -1208 296"
-	editor
-	{
-		"color" "157 214 0"
-		"groupid" "5640"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "5492"
-	"classname" "info_player_teamspawn"
-	"angles" "0 270 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_spy"
-	"TeamNum" "3"
-	"origin" "1648 -1208 296"
-	editor
-	{
-		"color" "157 214 0"
-		"groupid" "5640"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "5494"
-	"classname" "info_player_teamspawn"
-	"angles" "0 270 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_spy"
-	"TeamNum" "3"
-	"origin" "1680 -1272 296.005"
-	editor
-	{
-		"color" "157 214 0"
-		"groupid" "5640"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "5496"
-	"classname" "info_player_teamspawn"
-	"angles" "0 270 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_spy"
-	"TeamNum" "3"
-	"origin" "1616 -1272 296.005"
-	editor
-	{
-		"color" "157 214 0"
-		"groupid" "5640"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3399"
-	"classname" "info_player_teamspawn"
-	"angles" "0 270 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_spy"
-	"TeamNum" "3"
-	"origin" "1488 -1144 296"
-	editor
-	{
-		"color" "157 214 0"
-		"groupid" "5640"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3401"
-	"classname" "info_player_teamspawn"
-	"angles" "0 270 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_spy"
-	"TeamNum" "3"
-	"origin" "1552 -1144 296"
-	editor
-	{
-		"color" "157 214 0"
-		"groupid" "5640"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3411"
-	"classname" "info_player_teamspawn"
-	"angles" "0 270 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_spy"
-	"TeamNum" "3"
-	"origin" "1584 -1208 296"
-	editor
-	{
-		"color" "157 214 0"
-		"groupid" "5640"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3413"
-	"classname" "info_player_teamspawn"
-	"angles" "0 270 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_spy"
-	"TeamNum" "3"
-	"origin" "1520 -1208 296"
-	editor
-	{
-		"color" "157 214 0"
-		"groupid" "5640"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3419"
-	"classname" "info_player_teamspawn"
-	"angles" "0 270 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_spy"
-	"TeamNum" "3"
-	"origin" "1552 -1272 296.005"
-	editor
-	{
-		"color" "157 214 0"
-		"groupid" "5640"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3421"
-	"classname" "info_player_teamspawn"
-	"angles" "0 270 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_spy"
-	"TeamNum" "3"
-	"origin" "1488 -1272 296.005"
-	editor
-	{
-		"color" "157 214 0"
-		"groupid" "5640"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
 	"id" "5730"
 	"classname" "item_teamflag"
 	"angles" "0 0 0"
@@ -19358,234 +19586,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 6000]"
-	}
-}
-entity
-{
-	"id" "3844"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_sniper"
-	"TeamNum" "3"
-	"origin" "96 1792 295.995"
-	editor
-	{
-		"color" "147 176 0"
-		"groupid" "5997"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3846"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_sniper"
-	"TeamNum" "3"
-	"origin" "160 1792 295.995"
-	editor
-	{
-		"color" "147 176 0"
-		"groupid" "5997"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3854"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_sniper"
-	"TeamNum" "3"
-	"origin" "128 1728 295.995"
-	editor
-	{
-		"color" "147 176 0"
-		"groupid" "5997"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3856"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_sniper"
-	"TeamNum" "3"
-	"origin" "64 1728 295.995"
-	editor
-	{
-		"color" "147 176 0"
-		"groupid" "5997"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3860"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_sniper"
-	"TeamNum" "3"
-	"origin" "160 1664 296"
-	editor
-	{
-		"color" "147 176 0"
-		"groupid" "5997"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "3862"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_sniper"
-	"TeamNum" "3"
-	"origin" "96 1664 296"
-	editor
-	{
-		"color" "147 176 0"
-		"groupid" "5997"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "5666"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_sniper"
-	"TeamNum" "3"
-	"origin" "-32 1792 295.995"
-	editor
-	{
-		"color" "147 176 0"
-		"groupid" "5997"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "5668"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_sniper"
-	"TeamNum" "3"
-	"origin" "32 1792 295.995"
-	editor
-	{
-		"color" "147 176 0"
-		"groupid" "5997"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "5670"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_sniper"
-	"TeamNum" "3"
-	"origin" "0 1728 295.995"
-	editor
-	{
-		"color" "147 176 0"
-		"groupid" "5997"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "5672"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_sniper"
-	"TeamNum" "3"
-	"origin" "-64 1728 295.995"
-	editor
-	{
-		"color" "147 176 0"
-		"groupid" "5997"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "5674"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_sniper"
-	"TeamNum" "3"
-	"origin" "32 1664 296"
-	editor
-	{
-		"color" "147 176 0"
-		"groupid" "5997"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "5676"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"SpawnMode" "0"
-	"StartDisabled" "0"
-	"targetname" "spawnbot_mission_sniper"
-	"TeamNum" "3"
-	"origin" "-32 1664 296"
-	editor
-	{
-		"color" "147 176 0"
-		"groupid" "5997"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
 	}
 }
 entity
