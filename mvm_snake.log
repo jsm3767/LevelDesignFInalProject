@@ -615,3 +615,1667 @@ Level flags = 0
 Total triangle count: 5738
 Writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
 6 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop cloth for material FREAK_FORTRESS_2/DARK_VADER/PYRO_HANDS_RED, using default
+Patching WVT material: maps/mvm_snake/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (77596 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 38
+Reduced 14 texdatas to 13 (389 bytes to 367)
+Writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.bsp
+Wrote ZIP buffer, estimated size 465, actual size 385
+1 second elapsed
+
+
+
+8 threads
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.prt
+ 695 portalclusters
+2069 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1095 visible clusters (0.56%)
+Total clusters visible: 193858
+Average clusters visible: 278
+Building PAS...
+Average clusters audible: 687
+visdatasize:122092  compressed from 122320
+writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+22 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+2608 faces
+2568318 square feet [369837792.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2608 patches before subdivision
+117018 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9145154, max 649
+transfer lists:  69.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0270 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                210/8192         2520/98304    ( 2.6%) 
+brushsides            1343/65536       10744/524288   ( 2.0%) 
+planes                 756/65536       15120/1310720  ( 1.2%) 
+vertexes              3409/65536       40908/786432   ( 5.2%) 
+nodes                 1429/65536       45728/2097152  ( 2.2%) 
+texinfos                38/12288        2736/884736   ( 0.3%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2608/65536      146048/3670016  ( 4.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              737/65536       41272/3670016  ( 1.1%) 
+leaves                1433/65536       45856/2097152  ( 2.2%) 
+leaffaces             2988/65536        5976/131072   ( 4.6%) 
+leafbrushes            814/65536        1628/131072   ( 1.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            14921/512000      59684/2048000  ( 2.9%) 
+edges                 7946/256000      31784/1024000  ( 3.1%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            215/32768        2150/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2940/65536        5880/131072   ( 4.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3910192/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      122092/16777216 ( 0.7%) 
+entdata               [variable]        5213/393216   ( 1.3%) 
+LDR ambient table     1433/65536        5732/262144   ( 2.2%) 
+HDR ambient table     1433/65536        5732/262144   ( 2.2%) 
+LDR leaf ambient       707/65536       19796/1835008  ( 1.1%) 
+HDR leaf ambient      1433/65536       40124/1835008  ( 2.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         385/0        ( 0.0%) 
+physics               [variable]       77596/4194304  ( 1.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6784
+Writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+7 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop cloth for material FREAK_FORTRESS_2/DARK_VADER/PYRO_HANDS_RED, using default
+Patching WVT material: maps/mvm_snake/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (77596 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 38
+Reduced 14 texdatas to 13 (389 bytes to 367)
+Writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.bsp
+Wrote ZIP buffer, estimated size 465, actual size 385
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.prt
+ 695 portalclusters
+2069 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1095 visible clusters (0.56%)
+Total clusters visible: 193858
+Average clusters visible: 278
+Building PAS...
+Average clusters audible: 687
+visdatasize:122092  compressed from 122320
+writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+23 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+2608 faces
+2568318 square feet [369837792.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2608 patches before subdivision
+117018 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9145154, max 649
+transfer lists:  69.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0322 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                210/8192         2520/98304    ( 2.6%) 
+brushsides            1343/65536       10744/524288   ( 2.0%) 
+planes                 756/65536       15120/1310720  ( 1.2%) 
+vertexes              3409/65536       40908/786432   ( 5.2%) 
+nodes                 1429/65536       45728/2097152  ( 2.2%) 
+texinfos                38/12288        2736/884736   ( 0.3%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2608/65536      146048/3670016  ( 4.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              737/65536       41272/3670016  ( 1.1%) 
+leaves                1433/65536       45856/2097152  ( 2.2%) 
+leaffaces             2988/65536        5976/131072   ( 4.6%) 
+leafbrushes            814/65536        1628/131072   ( 1.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            14921/512000      59684/2048000  ( 2.9%) 
+edges                 7946/256000      31784/1024000  ( 3.1%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            215/32768        2150/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2940/65536        5880/131072   ( 4.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3910192/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      122092/16777216 ( 0.7%) 
+entdata               [variable]        5214/393216   ( 1.3%) 
+LDR ambient table     1433/65536        5732/262144   ( 2.2%) 
+HDR ambient table     1433/65536        5732/262144   ( 2.2%) 
+LDR leaf ambient       707/65536       19796/1835008  ( 1.1%) 
+HDR leaf ambient      1433/65536       40124/1835008  ( 2.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         385/0        ( 0.0%) 
+physics               [variable]       77596/4194304  ( 1.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6784
+Writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+7 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop cloth for material FREAK_FORTRESS_2/DARK_VADER/PYRO_HANDS_RED, using default
+Patching WVT material: maps/mvm_snake/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (81425 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 47 texinfos to 40
+Reduced 14 texdatas to 13 (389 bytes to 367)
+Writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.bsp
+Wrote ZIP buffer, estimated size 465, actual size 385
+1 second elapsed
+
+
+
+8 threads
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.prt
+ 720 portalclusters
+2127 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1269 visible clusters (0.61%)
+Total clusters visible: 208269
+Average clusters visible: 289
+Building PAS...
+Average clusters audible: 712
+visdatasize:130629  compressed from 138240
+writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+26 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+2723 faces
+2804221 square feet [403807840.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2723 patches before subdivision
+125401 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9834554, max 655
+transfer lists:  75.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0301 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                219/8192         2628/98304    ( 2.7%) 
+brushsides            1397/65536       11176/524288   ( 2.1%) 
+planes                 780/65536       15600/1310720  ( 1.2%) 
+vertexes              3573/65536       42876/786432   ( 5.5%) 
+nodes                 1503/65536       48096/2097152  ( 2.3%) 
+texinfos                40/12288        2880/884736   ( 0.3%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2723/65536      152488/3670016  ( 4.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              775/65536       43400/3670016  ( 1.2%) 
+leaves                1510/65536       48320/2097152  ( 2.3%) 
+leaffaces             3121/65536        6242/131072   ( 4.8%) 
+leafbrushes            847/65536        1694/131072   ( 1.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            15585/512000      62340/2048000  ( 3.0%) 
+edges                 8303/256000      33212/1024000  ( 3.2%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            225/32768        2250/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3051/65536        6102/131072   ( 4.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4254584/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      130629/16777216 ( 0.8%) 
+entdata               [variable]       15173/393216   ( 3.9%) 
+LDR ambient table     1510/65536        6040/262144   ( 2.3%) 
+HDR ambient table     1510/65536        6040/262144   ( 2.3%) 
+LDR leaf ambient       750/65536       21000/1835008  ( 1.1%) 
+HDR leaf ambient      1510/65536       42280/1835008  ( 2.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         385/0        ( 0.0%) 
+physics               [variable]       81425/4194304  ( 1.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7066
+Writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+7 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop cloth for material FREAK_FORTRESS_2/DARK_VADER/PYRO_HANDS_RED, using default
+Patching WVT material: maps/mvm_snake/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (83097 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 56 texinfos to 41
+Reduced 15 texdatas to 14 (407 bytes to 385)
+Writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.bsp
+Wrote ZIP buffer, estimated size 465, actual size 385
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.prt
+ 720 portalclusters
+2127 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1268 visible clusters (0.61%)
+Total clusters visible: 208268
+Average clusters visible: 289
+Building PAS...
+Average clusters audible: 712
+visdatasize:130629  compressed from 138240
+writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+26 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+2729 faces
+2944196 square feet [423964256.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2729 patches before subdivision
+125407 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9834879, max 655
+transfer lists:  75.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0283 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                222/8192         2664/98304    ( 2.7%) 
+brushsides            1415/65536       11320/524288   ( 2.2%) 
+planes                 798/65536       15960/1310720  ( 1.2%) 
+vertexes              3597/65536       43164/786432   ( 5.5%) 
+nodes                 1521/65536       48672/2097152  ( 2.3%) 
+texinfos                41/12288        2952/884736   ( 0.3%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2729/65536      152824/3670016  ( 4.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              781/65536       43736/3670016  ( 1.2%) 
+leaves                1531/65536       48992/2097152  ( 2.3%) 
+leaffaces             3127/65536        6254/131072   ( 4.8%) 
+leafbrushes            850/65536        1700/131072   ( 1.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            15633/512000      62532/2048000  ( 3.1%) 
+edges                 8327/256000      33308/1024000  ( 3.3%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            225/32768        2250/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3051/65536        6102/131072   ( 4.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4254584/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      130629/16777216 ( 0.8%) 
+entdata               [variable]       16357/393216   ( 4.2%) 
+LDR ambient table     1531/65536        6124/262144   ( 2.3%) 
+HDR ambient table     1531/65536        6124/262144   ( 2.3%) 
+LDR leaf ambient       768/65536       21504/1835008  ( 1.2%) 
+HDR leaf ambient      1531/65536       42868/1835008  ( 2.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         385/0        ( 0.0%) 
+physics               [variable]       83097/4194304  ( 2.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7078
+Writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+7 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop cloth for material FREAK_FORTRESS_2/DARK_VADER/PYRO_HANDS_RED, using default
+Patching WVT material: maps/mvm_snake/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (83654 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 59 texinfos to 44
+Reduced 15 texdatas to 14 (407 bytes to 385)
+Writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.bsp
+Wrote ZIP buffer, estimated size 465, actual size 385
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.prt
+ 719 portalclusters
+2111 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1261 visible clusters (0.61%)
+Total clusters visible: 207644
+Average clusters visible: 288
+Building PAS...
+Average clusters audible: 711
+visdatasize:130417  compressed from 138048
+writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+26 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+2744 faces
+2959893 square feet [426224576.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2744 patches before subdivision
+125824 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9891650, max 661
+transfer lists:  75.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0289 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  10/1024          480/49152    ( 1.0%) 
+brushes                223/8192         2676/98304    ( 2.7%) 
+brushsides            1421/65536       11368/524288   ( 2.2%) 
+planes                 806/65536       16120/1310720  ( 1.2%) 
+vertexes              3622/65536       43464/786432   ( 5.5%) 
+nodes                 1529/65536       48928/2097152  ( 2.3%) 
+texinfos                44/12288        3168/884736   ( 0.4%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2744/65536      153664/3670016  ( 4.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              786/65536       44016/3670016  ( 1.2%) 
+leaves                1540/65536       49280/2097152  ( 2.3%) 
+leaffaces             3144/65536        6288/131072   ( 4.8%) 
+leafbrushes            858/65536        1716/131072   ( 1.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            15716/512000      62864/2048000  ( 3.1%) 
+edges                 8369/256000      33476/1024000  ( 3.3%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            224/32768        2240/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3048/65536        6096/131072   ( 4.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4264220/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      130417/16777216 ( 0.8%) 
+entdata               [variable]       17259/393216   ( 4.4%) 
+LDR ambient table     1540/65536        6160/262144   ( 2.3%) 
+HDR ambient table     1540/65536        6160/262144   ( 2.3%) 
+LDR leaf ambient       773/65536       21644/1835008  ( 1.2%) 
+HDR leaf ambient      1540/65536       43120/1835008  ( 2.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         385/0        ( 0.0%) 
+physics               [variable]       83654/4194304  ( 2.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7112
+Writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+7 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop cloth for material FREAK_FORTRESS_2/DARK_VADER/PYRO_HANDS_RED, using default
+Patching WVT material: maps/mvm_snake/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (86029 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 59 texinfos to 44
+Reduced 15 texdatas to 14 (407 bytes to 385)
+Writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.bsp
+Wrote ZIP buffer, estimated size 465, actual size 385
+1 second elapsed
+
+
+
+8 threads
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.prt
+ 739 portalclusters
+2180 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1317 visible clusters (0.62%)
+Total clusters visible: 213654
+Average clusters visible: 289
+Building PAS...
+Average clusters audible: 729
+visdatasize:138329  compressed from 141888
+writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+27 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+2802 faces
+3113391 square feet [448328352.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2802 patches before subdivision
+130370 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10195291, max 671
+transfer lists:  77.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0392 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                229/8192         2748/98304    ( 2.8%) 
+brushsides            1458/65536       11664/524288   ( 2.2%) 
+planes                 812/65536       16240/1310720  ( 1.2%) 
+vertexes              3706/65536       44472/786432   ( 5.7%) 
+nodes                 1567/65536       50144/2097152  ( 2.4%) 
+texinfos                44/12288        3168/884736   ( 0.4%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2802/65536      156912/3670016  ( 4.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              809/65536       45304/3670016  ( 1.2%) 
+leaves                1579/65536       50528/2097152  ( 2.4%) 
+leaffaces             3205/65536        6410/131072   ( 4.9%) 
+leafbrushes            877/65536        1754/131072   ( 1.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            16089/512000      64356/2048000  ( 3.1%) 
+edges                 8567/256000      34268/1024000  ( 3.3%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            233/32768        2330/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3162/65536        6324/131072   ( 4.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4304628/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      138329/16777216 ( 0.8%) 
+entdata               [variable]       20883/393216   ( 5.3%) 
+LDR ambient table     1579/65536        6316/262144   ( 2.4%) 
+HDR ambient table     1579/65536        6316/262144   ( 2.4%) 
+LDR leaf ambient       799/65536       22372/1835008  ( 1.2%) 
+HDR leaf ambient      1579/65536       44212/1835008  ( 2.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         385/0        ( 0.0%) 
+physics               [variable]       86029/4194304  ( 2.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7274
+Writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+8 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop cloth for material FREAK_FORTRESS_2/DARK_VADER/PYRO_HANDS_RED, using default
+Patching WVT material: maps/mvm_snake/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (86029 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 59 texinfos to 44
+Reduced 15 texdatas to 14 (407 bytes to 385)
+Writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.bsp
+Wrote ZIP buffer, estimated size 465, actual size 385
+1 second elapsed
+
+
+
+8 threads
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.prt
+ 739 portalclusters
+2180 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1315 visible clusters (0.62%)
+Total clusters visible: 213652
+Average clusters visible: 289
+Building PAS...
+Average clusters audible: 729
+visdatasize:138329  compressed from 141888
+writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+27 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+2802 faces
+3113391 square feet [448328352.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2802 patches before subdivision
+130370 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10195291, max 671
+transfer lists:  77.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0348 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                229/8192         2748/98304    ( 2.8%) 
+brushsides            1458/65536       11664/524288   ( 2.2%) 
+planes                 812/65536       16240/1310720  ( 1.2%) 
+vertexes              3706/65536       44472/786432   ( 5.7%) 
+nodes                 1567/65536       50144/2097152  ( 2.4%) 
+texinfos                44/12288        3168/884736   ( 0.4%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2802/65536      156912/3670016  ( 4.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              809/65536       45304/3670016  ( 1.2%) 
+leaves                1579/65536       50528/2097152  ( 2.4%) 
+leaffaces             3205/65536        6410/131072   ( 4.9%) 
+leafbrushes            877/65536        1754/131072   ( 1.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            16089/512000      64356/2048000  ( 3.1%) 
+edges                 8567/256000      34268/1024000  ( 3.3%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            233/32768        2330/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3162/65536        6324/131072   ( 4.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4304628/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      138329/16777216 ( 0.8%) 
+entdata               [variable]       20883/393216   ( 5.3%) 
+LDR ambient table     1579/65536        6316/262144   ( 2.4%) 
+HDR ambient table     1579/65536        6316/262144   ( 2.4%) 
+LDR leaf ambient       799/65536       22372/1835008  ( 1.2%) 
+HDR leaf ambient      1579/65536       44212/1835008  ( 2.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         385/0        ( 0.0%) 
+physics               [variable]       86029/4194304  ( 2.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7274
+Writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+8 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop cloth for material FREAK_FORTRESS_2/DARK_VADER/PYRO_HANDS_RED, using default
+Patching WVT material: maps/mvm_snake/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (86029 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 59 texinfos to 44
+Reduced 15 texdatas to 14 (407 bytes to 385)
+Writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.bsp
+Wrote ZIP buffer, estimated size 465, actual size 385
+1 second elapsed
+
+
+
+8 threads
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.prt
+ 739 portalclusters
+2180 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1316 visible clusters (0.62%)
+Total clusters visible: 213653
+Average clusters visible: 289
+Building PAS...
+Average clusters audible: 729
+visdatasize:138329  compressed from 141888
+writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+27 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+2802 faces
+3113391 square feet [448328352.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2802 patches before subdivision
+130370 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10195291, max 671
+transfer lists:  77.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0302 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                229/8192         2748/98304    ( 2.8%) 
+brushsides            1458/65536       11664/524288   ( 2.2%) 
+planes                 812/65536       16240/1310720  ( 1.2%) 
+vertexes              3706/65536       44472/786432   ( 5.7%) 
+nodes                 1567/65536       50144/2097152  ( 2.4%) 
+texinfos                44/12288        3168/884736   ( 0.4%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2802/65536      156912/3670016  ( 4.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              809/65536       45304/3670016  ( 1.2%) 
+leaves                1579/65536       50528/2097152  ( 2.4%) 
+leaffaces             3205/65536        6410/131072   ( 4.9%) 
+leafbrushes            877/65536        1754/131072   ( 1.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            16089/512000      64356/2048000  ( 3.1%) 
+edges                 8567/256000      34268/1024000  ( 3.3%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            233/32768        2330/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3162/65536        6324/131072   ( 4.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4304628/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      138329/16777216 ( 0.8%) 
+entdata               [variable]       21058/393216   ( 5.4%) 
+LDR ambient table     1579/65536        6316/262144   ( 2.4%) 
+HDR ambient table     1579/65536        6316/262144   ( 2.4%) 
+LDR leaf ambient       799/65536       22372/1835008  ( 1.2%) 
+HDR leaf ambient      1579/65536       44212/1835008  ( 2.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         385/0        ( 0.0%) 
+physics               [variable]       86029/4194304  ( 2.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7274
+Writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+7 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop cloth for material FREAK_FORTRESS_2/DARK_VADER/PYRO_HANDS_RED, using default
+Patching WVT material: maps/mvm_snake/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (86029 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 59 texinfos to 44
+Reduced 15 texdatas to 14 (407 bytes to 385)
+Writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.bsp
+Wrote ZIP buffer, estimated size 465, actual size 385
+1 second elapsed
+
+
+
+8 threads
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.prt
+ 739 portalclusters
+2180 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1315 visible clusters (0.62%)
+Total clusters visible: 213652
+Average clusters visible: 289
+Building PAS...
+Average clusters audible: 729
+visdatasize:138329  compressed from 141888
+writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+27 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+2802 faces
+3113391 square feet [448328352.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2802 patches before subdivision
+130370 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10195291, max 671
+transfer lists:  77.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0293 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                229/8192         2748/98304    ( 2.8%) 
+brushsides            1458/65536       11664/524288   ( 2.2%) 
+planes                 812/65536       16240/1310720  ( 1.2%) 
+vertexes              3706/65536       44472/786432   ( 5.7%) 
+nodes                 1567/65536       50144/2097152  ( 2.4%) 
+texinfos                44/12288        3168/884736   ( 0.4%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2802/65536      156912/3670016  ( 4.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              809/65536       45304/3670016  ( 1.2%) 
+leaves                1579/65536       50528/2097152  ( 2.4%) 
+leaffaces             3205/65536        6410/131072   ( 4.9%) 
+leafbrushes            877/65536        1754/131072   ( 1.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            16089/512000      64356/2048000  ( 3.1%) 
+edges                 8567/256000      34268/1024000  ( 3.3%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            233/32768        2330/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3162/65536        6324/131072   ( 4.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4304628/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      138329/16777216 ( 0.8%) 
+entdata               [variable]       21058/393216   ( 5.4%) 
+LDR ambient table     1579/65536        6316/262144   ( 2.4%) 
+HDR ambient table     1579/65536        6316/262144   ( 2.4%) 
+LDR leaf ambient       799/65536       22372/1835008  ( 1.2%) 
+HDR leaf ambient      1579/65536       44212/1835008  ( 2.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         385/0        ( 0.0%) 
+physics               [variable]       86029/4194304  ( 2.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7274
+Writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+7 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop cloth for material FREAK_FORTRESS_2/DARK_VADER/PYRO_HANDS_RED, using default
+Patching WVT material: maps/mvm_snake/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (86029 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 59 texinfos to 44
+Reduced 15 texdatas to 14 (407 bytes to 385)
+Writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.bsp
+Wrote ZIP buffer, estimated size 465, actual size 385
+1 second elapsed
+
+
+
+8 threads
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.prt
+ 739 portalclusters
+2180 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1314 visible clusters (0.62%)
+Total clusters visible: 213651
+Average clusters visible: 289
+Building PAS...
+Average clusters audible: 729
+visdatasize:138329  compressed from 141888
+writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+29 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+2802 faces
+3113391 square feet [448328352.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2802 patches before subdivision
+130370 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10195291, max 671
+transfer lists:  77.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0323 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                229/8192         2748/98304    ( 2.8%) 
+brushsides            1458/65536       11664/524288   ( 2.2%) 
+planes                 812/65536       16240/1310720  ( 1.2%) 
+vertexes              3706/65536       44472/786432   ( 5.7%) 
+nodes                 1567/65536       50144/2097152  ( 2.4%) 
+texinfos                44/12288        3168/884736   ( 0.4%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2802/65536      156912/3670016  ( 4.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              809/65536       45304/3670016  ( 1.2%) 
+leaves                1579/65536       50528/2097152  ( 2.4%) 
+leaffaces             3205/65536        6410/131072   ( 4.9%) 
+leafbrushes            877/65536        1754/131072   ( 1.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            16089/512000      64356/2048000  ( 3.1%) 
+edges                 8567/256000      34268/1024000  ( 3.3%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            233/32768        2330/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3162/65536        6324/131072   ( 4.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4304628/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      138329/16777216 ( 0.8%) 
+entdata               [variable]       21070/393216   ( 5.4%) 
+LDR ambient table     1579/65536        6316/262144   ( 2.4%) 
+HDR ambient table     1579/65536        6316/262144   ( 2.4%) 
+LDR leaf ambient       799/65536       22372/1835008  ( 1.2%) 
+HDR leaf ambient      1579/65536       44212/1835008  ( 2.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         385/0        ( 0.0%) 
+physics               [variable]       86029/4194304  ( 2.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7274
+Writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+8 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop cloth for material FREAK_FORTRESS_2/DARK_VADER/PYRO_HANDS_RED, using default
+Patching WVT material: maps/mvm_snake/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (86029 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 59 texinfos to 44
+Reduced 15 texdatas to 14 (407 bytes to 385)
+Writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.bsp
+Wrote ZIP buffer, estimated size 465, actual size 385
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.prt
+ 739 portalclusters
+2180 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1314 visible clusters (0.62%)
+Total clusters visible: 213651
+Average clusters visible: 289
+Building PAS...
+Average clusters audible: 729
+visdatasize:138329  compressed from 141888
+writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+27 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+2802 faces
+3113391 square feet [448328352.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2802 patches before subdivision
+130370 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10195291, max 671
+transfer lists:  77.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0380 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                229/8192         2748/98304    ( 2.8%) 
+brushsides            1458/65536       11664/524288   ( 2.2%) 
+planes                 812/65536       16240/1310720  ( 1.2%) 
+vertexes              3706/65536       44472/786432   ( 5.7%) 
+nodes                 1567/65536       50144/2097152  ( 2.4%) 
+texinfos                44/12288        3168/884736   ( 0.4%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2802/65536      156912/3670016  ( 4.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              809/65536       45304/3670016  ( 1.2%) 
+leaves                1579/65536       50528/2097152  ( 2.4%) 
+leaffaces             3205/65536        6410/131072   ( 4.9%) 
+leafbrushes            877/65536        1754/131072   ( 1.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            16089/512000      64356/2048000  ( 3.1%) 
+edges                 8567/256000      34268/1024000  ( 3.3%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            233/32768        2330/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3162/65536        6324/131072   ( 4.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4304628/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      138329/16777216 ( 0.8%) 
+entdata               [variable]       21070/393216   ( 5.4%) 
+LDR ambient table     1579/65536        6316/262144   ( 2.4%) 
+HDR ambient table     1579/65536        6316/262144   ( 2.4%) 
+LDR leaf ambient       799/65536       22372/1835008  ( 1.2%) 
+HDR leaf ambient      1579/65536       44212/1835008  ( 2.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         385/0        ( 0.0%) 
+physics               [variable]       86029/4194304  ( 2.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7274
+Writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+8 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop cloth for material FREAK_FORTRESS_2/DARK_VADER/PYRO_HANDS_RED, using default
+Patching WVT material: maps/mvm_snake/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (86029 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 59 texinfos to 44
+Reduced 15 texdatas to 14 (407 bytes to 385)
+Writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.bsp
+Wrote ZIP buffer, estimated size 465, actual size 385
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.prt
+ 739 portalclusters
+2180 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1315 visible clusters (0.62%)
+Total clusters visible: 213652
+Average clusters visible: 289
+Building PAS...
+Average clusters audible: 729
+visdatasize:138329  compressed from 141888
+writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+27 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+2802 faces
+3113391 square feet [448328352.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2802 patches before subdivision
+130370 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10195291, max 671
+transfer lists:  77.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0336 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                229/8192         2748/98304    ( 2.8%) 
+brushsides            1458/65536       11664/524288   ( 2.2%) 
+planes                 812/65536       16240/1310720  ( 1.2%) 
+vertexes              3706/65536       44472/786432   ( 5.7%) 
+nodes                 1567/65536       50144/2097152  ( 2.4%) 
+texinfos                44/12288        3168/884736   ( 0.4%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2802/65536      156912/3670016  ( 4.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              809/65536       45304/3670016  ( 1.2%) 
+leaves                1579/65536       50528/2097152  ( 2.4%) 
+leaffaces             3205/65536        6410/131072   ( 4.9%) 
+leafbrushes            877/65536        1754/131072   ( 1.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            16089/512000      64356/2048000  ( 3.1%) 
+edges                 8567/256000      34268/1024000  ( 3.3%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            233/32768        2330/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3162/65536        6324/131072   ( 4.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4304628/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      138329/16777216 ( 0.8%) 
+entdata               [variable]       21070/393216   ( 5.4%) 
+LDR ambient table     1579/65536        6316/262144   ( 2.4%) 
+HDR ambient table     1579/65536        6316/262144   ( 2.4%) 
+LDR leaf ambient       799/65536       22372/1835008  ( 1.2%) 
+HDR leaf ambient      1579/65536       44212/1835008  ( 2.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         385/0        ( 0.0%) 
+physics               [variable]       86029/4194304  ( 2.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7274
+Writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+8 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop cloth for material FREAK_FORTRESS_2/DARK_VADER/PYRO_HANDS_RED, using default
+Patching WVT material: maps/mvm_snake/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (87109 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 59 texinfos to 44
+Reduced 15 texdatas to 14 (407 bytes to 385)
+Writing C:\Users\Jason\Documents\GitHub\LevelDesignFInalProject\mvm_snake.bsp
+Wrote ZIP buffer, estimated size 465, actual size 385
+1 second elapsed
+
+
+
+8 threads
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+reading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.prt
+ 751 portalclusters
+2220 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1317 visible clusters (0.60%)
+Total clusters visible: 219234
+Average clusters visible: 291
+Building PAS...
+Average clusters audible: 741
+visdatasize:141954  compressed from 144192
+writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+27 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+2863 faces
+3138022 square feet [451875264.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2863 patches before subdivision
+133015 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10447886, max 687
+transfer lists:  79.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0361 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                232/8192         2784/98304    ( 2.8%) 
+brushsides            1476/65536       11808/524288   ( 2.3%) 
+planes                 814/65536       16280/1310720  ( 1.2%) 
+vertexes              3785/65536       45420/786432   ( 5.8%) 
+nodes                 1587/65536       50784/2097152  ( 2.4%) 
+texinfos                44/12288        3168/884736   ( 0.4%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2863/65536      160328/3670016  ( 4.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              820/65536       45920/3670016  ( 1.3%) 
+leaves                1599/65536       51168/2097152  ( 2.4%) 
+leaffaces             3277/65536        6554/131072   ( 5.0%) 
+leafbrushes            887/65536        1774/131072   ( 1.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            16423/512000      65692/2048000  ( 3.2%) 
+edges                 8743/256000      34972/1024000  ( 3.4%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            250/32768        2500/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3372/65536        6744/131072   ( 5.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4368984/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      141954/16777216 ( 0.8%) 
+entdata               [variable]       21079/393216   ( 5.4%) 
+LDR ambient table     1599/65536        6396/262144   ( 2.4%) 
+HDR ambient table     1599/65536        6396/262144   ( 2.4%) 
+LDR leaf ambient       811/65536       22708/1835008  ( 1.2%) 
+HDR leaf ambient      1599/65536       44772/1835008  ( 2.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         385/0        ( 0.0%) 
+physics               [variable]       87109/4194304  ( 2.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7442
+Writing c:\users\jason\documents\github\leveldesignfinalproject\mvm_snake.bsp
+8 seconds elapsed
