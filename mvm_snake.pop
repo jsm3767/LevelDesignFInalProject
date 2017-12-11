@@ -20,6 +20,7 @@ population
 			WeaponRestrictions	SecondaryOnly
 			Item	"mad milk"
 			Item	"the milkman"
+            Attributes	"AlwaysFireWeapon"
 		}
 	}
 	Mission
